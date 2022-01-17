@@ -1,11 +1,29 @@
-/*!normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css*/html {
-  line-height: 1.15;
-  -webkit-text-size-adjust: 100%;
+html {
+  box-sizing: border-box;
+  font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,-apple-system-font,Helvetica Neue;
 }
 
 body{
   margin: 0;
-  
+  padding: 0;
+  line-height: 1.6;
+  background: #ffffff;
+  text-shadow: 0 1px 1px rgba(0,0,0, 0);
+  -webkit-text-size-adjust: 100%;
+}
+
+tqm{
+  color: #000;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+mos{
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0px;
 }
 
 red{
@@ -119,22 +137,20 @@ panel-body{
 
 img {
   border-radius:10px;
-  -moz-border-radius:10px;
-  -webkit-border-radius:10px;
   isolation: isolate; 
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
 }
 
 .screenshot-viewer a {
   display: block;
-  width: auto;
-  height: 500px;
+  width:  100%;
+  height: 700px;
 }
 
 .screenshot-viewer img {
   height: 93%;
-  width: auto;
+  width: 100%;
   overflow: hidden;
   display: inline-block;
   -webkit-box-reflect: below 0.5em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(95%, transparent), to(rgba(0,0,0, 0.3)));
@@ -142,7 +158,7 @@ border: 0px solid  black;
 }
 
 .screenshot-viewer{
-  width: auto;
+  width: 100%;
   height: 50%;
   display: block;
   list-style: none;
@@ -161,7 +177,7 @@ border: 0px solid  black;
 
 .screenshot-viewer>li{
   padding: 0;
-  margin: 0 0px;
+  margin: 0 8px;
   font-size: 13px;
   display: inline-block;
   vertical-align: bottom;
@@ -177,10 +193,10 @@ border: 0px solid  black;
 
 .screenshot-viewer>li img{
   margin: 0;
-  width: auto;
+  width: 100%;
   overflow: hidden;
-  border: 0.5px solid #999;
-  border-radius: 10px!important;
+  border: 0.5px solid #000;
+  border-radius: 15px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0);
   z-index: 1;
 }
@@ -500,22 +516,6 @@ border: 0px solid  black;
   margin-top: -.25rem;
 }
 
-.opacity-75 {
-  opacity: .75;
-}
-
-.opacity-90 {
-  opacity: .9;
-}
-
-.opacity-95 {
-  opacity: .95;
-}
-
-.overflow-hidden {
-  overflow: hidden;
-}
-
 .p-0 {
   padding: 0;
 }
@@ -666,8 +666,40 @@ border: 0px solid  black;
   padding-bottom: .125rem;
 }
 
-.relative {
-  position: relative;
+.w-10 {
+  width: 2.5rem;
+}
+
+.w-11 {
+  width: 2.75rem;
+}
+
+.w-auto {
+  width: auto;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
+.w-1\/3 {
+  width: 33.33333%;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.opacity-75 {
+  opacity: .75;
+}
+
+.opacity-90 {
+  opacity: .9;
+}
+
+.opacity-95 {
+  opacity: .95;
 }
 
 .shadow {
@@ -688,6 +720,78 @@ border: 0px solid  black;
 
 .text-right {
   text-align: right;
+}
+
+.text-grey-darkest {
+  color: #323f4b;
+}
+
+.text-grey-darker {
+  color: #3e4c59;
+}
+
+.text-grey-dark {
+  color: #52606d;
+}
+
+.text-grey {
+  color: #7b8794;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-red-darker {
+  color: #ab091e;
+}
+
+.text-red-dark {
+  color: #cf1124;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-orange {
+  color: #ff9800;
+}
+
+.text-yellow-darker {
+  color: #cb6e17;
+}
+
+.text-yellow-dark {
+  color: #de911d;
+}
+
+.text-green-darker {
+  color: #147d64;
+}
+
+.text-green-dark {
+  color: #199473;
+}
+
+.text-green {
+  color: #31b237;
+}
+
+.text-blue-dark {
+  color: #1992d4;
+}
+
+.text-blue {
+  color: #40c3f7;
+}
+
+.hover\:text-white:hover {
+  color: #fff;
+}
+
+.hover\:text-green-dark:hover {
+  color: #199473;
 }
 
 .text-xss {
@@ -724,48 +828,6 @@ border: 0px solid  black;
 
 .text-3xl {
   font-size: 1.875rem;
-}
-
-.italic {
-  font-style: italic;
-}
-
-.uppercase {
-  text-transform: uppercase;
-}
-
-.no-underline {
-  text-decoration: none;
-}
-
-.truncate {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.w-10 {
-  width: 2.5rem;
-}
-
-.w-11 {
-  width: 2.75rem;
-}
-
-.w-auto {
-  width: auto;
-}
-
-.w-1\/2 {
-  width: 50%;
-}
-
-.w-1\/3 {
-  width: 33.33333%;
-}
-
-.w-full {
-  width: 100%;
 }
 
 body,canvas,caption,dfn,div,em,figcaption,footer,form,h1,h2,h3,h4,h5,h6,header,html,i,img,ins,label,legend,li,menu,nav,ol,p,section,small,span,strong,table,tbody,td,th,thead,tr,ul {
@@ -931,4 +993,3 @@ body {
   font-weight: 500;
   font-size: 15px;
 }
-
