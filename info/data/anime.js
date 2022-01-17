@@ -148,8 +148,8 @@
                 }
 
                 var defaultOptions = {
-                  bottom: '32px',
-                  right: '32px',
+                  bottom: '22px',
+                  right: '22px',
                   left: 'unset',
                   time: '0.3s',
                   mixColor: '#fff',
