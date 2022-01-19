@@ -27,12 +27,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioRelease</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontblood_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -57,7 +57,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afonttqmlaxanh_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontcharmonman_1.0_iphoneos-arm.deb</loc>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -72,7 +77,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontheart_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -82,7 +87,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontfutura_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -102,7 +107,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afonttqmdalat_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -112,12 +117,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontrosemary_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontjasmina_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -148,6 +153,11 @@
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontbookerly_1.0_iphoneos-arm.deb</loc>
    <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontcharm_1.0_iphoneos-arm.deb</loc>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -356,6 +366,26 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharm/screenshots/2.png</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharm/screenshots/1.png</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharm/index.html</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharm/packages/info.json</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.ioinfo/afontnote/screenshots/2.png</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -412,6 +442,26 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioinfo/afontgineso/packages/info.json</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharmonman/screenshots/2.png</loc>
+   <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharmonman/screenshots/1.png</loc>
+   <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharmonman/index.html</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/afontcharmonman/packages/info.json</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -957,12 +1007,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.iositemap.xml</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.ioPackages.bz2</loc>
-   <lastmod>2022-01-18</lastmod>
+   <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -981,12 +1031,157 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/objects/6f/467212202429bb8583945a9824294d10ecd1a4</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/93/36081d1d5f51450f46d09edb644f0e3a6f7ca1</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/d7/014f323f6d18d33fc16933b02f4033e6358e3e</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/d6/9cb283cd97940d896d21c518d9703fdf076ec1</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/ab/caf10ebc142ce74bf64f3513bb8f1209c16d29</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/c8/05664cf5cbe18e5609068f1c7469cd920761d0</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/c1/8479ed4cff7f820599a40ec16cb3c053df4332</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/ec/836dd22ae98969159a2d437b00a3dec99c70de</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/ec/5b3b77cd08747ff409d62ab7b13805630747a7</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/4e/cb705f065c59d340e6fb852ee71f73db6bc882</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/20/8be731e0cf1f50ecd102a50e69e6e0755aeb18</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/20/896cc8cbbb6a03de51b3151db67c5c95416f60</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/27/030dcee676e1c3cf0ea9c3753b90494e71f916</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/objects/pack/pack-7c5696894ad63549debf86c52580beab98e41a1c.idx</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/objects/pack/pack-7c5696894ad63549debf86c52580beab98e41a1c.pack</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/7d/aad54e05500819ac0c15505e91b99bf8aae4c2</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/1a/7b0a7e62af60de3061e41951444c178902a08e</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/19/a94b0cb2fa218f6146a50b445b93071a5a4f48</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/26/383c06a33caf069292c1b2410805d3b33f7fff</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/2a/2430e7354c1ce57d86cec34d2287dcdf3dfcb4</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/07/d90a795d462d863d9db3e69c4405953afe0975</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/65/ebdc3d8297ec72a181004f3705c9b4ae8e95c0</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/63/c4d2b901cd4165f47bd262e579b1e8bfa15b52</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/d3/74e81c8a12b9c3ab4b16a4c41d1ff74035d690</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/af/6258052aeaafc5dc1425ce3c85363b57bd2066</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/cd/f3c961a957ca3d37eb9c6bb90decd53c943155</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/c2/c2795aa4aa11c909ad31b14675117e4e2d99d8</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/41/51e7a64179fc0f8fe11a3453f83749912ea6c9</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/70/bd193479b4d1fb914eb6cd356745f164cd63a5</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/2b/a608d2b55870e6842a76077b982399ca71d6a7</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/7a/687cd2607b7ced051bc97aa715bc2d93a7b5bc</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -1012,6 +1207,11 @@
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/logs/refs/remotes/origin/HEAD</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/logs/refs/remotes/origin/master</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -1076,12 +1276,22 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/COMMIT_EDITMSG</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/refs/heads/master</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/refs/remotes/origin/HEAD</loc>
+   <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/refs/remotes/origin/master</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
