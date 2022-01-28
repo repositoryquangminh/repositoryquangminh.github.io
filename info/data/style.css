@@ -259,7 +259,7 @@ p{
 }
 
     #header {
-        background: url(../repoicon.png);
+        background: url(repoicon.png);
         background-size: contain;
         width: 170px;
         height: 170px;
@@ -437,21 +437,21 @@ p{
 }
 
     #emailicon {
-        background: url("../emailicon.png");
+        background: url("emailicon.png");
         height: 65px;
         width: 75px;
         background-size: contain;
         background-repeat: no-repeat;
 }
     #githubicon {
-        background: url("../githubicon.png");
+        background: url("githubicon.png");
         height: 65px;
         width: 75px;
         background-size: contain;
         background-repeat: no-repeat;
 }
     #twittericon {
-        background: url("../twittericon.png");
+        background: url("twittericon.png");
         height: 70px;
         width: 80px;
         background-size: contain;
