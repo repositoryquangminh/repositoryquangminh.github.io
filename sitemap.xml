@@ -27,7 +27,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioRelease</loc>
-   <lastmod>2022-01-23</lastmod>
+   <lastmod>2022-02-17</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -246,6 +246,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.ioDEB/com.ongcenh.bytqm_1.0_iphoneos-arm.deb</loc>
+   <lastmod>2022-02-17</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afonttqmvan_1.0_iphoneos-arm.deb</loc>
    <lastmod>2022-01-18</lastmod>
    <changefreq>weekly</changefreq>
@@ -303,6 +308,26 @@
   <url>
    <loc>https://ongcenh.github.ioinfo/afontlove/packages/info.json</loc>
    <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/bytqm/screenshots/2.png</loc>
+   <lastmod>2022-02-17</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/bytqm/screenshots/1.png</loc>
+   <lastmod>2022-02-17</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/bytqm/index.html</loc>
+   <lastmod>2022-02-17</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioinfo/bytqm/packages/info.json</loc>
+   <lastmod>2022-02-17</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1026,6 +1051,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.ioinfo/data/themes.png</loc>
+   <lastmod>2022-02-17</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.ioinfo/data/gr.png</loc>
    <lastmod>2022-01-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -1612,12 +1642,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.iositemap.xml</loc>
-   <lastmod>2022-02-01</lastmod>
+   <lastmod>2022-02-17</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.ioPackages.bz2</loc>
-   <lastmod>2022-01-23</lastmod>
+   <lastmod>2022-02-17</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1646,6 +1676,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/objects/0d/9a11c04384d5dddd9c85c945b2ea9269b9bf7b</loc>
+   <lastmod>2022-02-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/objects/95/a967901f87188ddb29f29f2582c65d5405d9ca</loc>
    <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
@@ -1658,6 +1693,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/59/e7ea8ff3c445dad278849ee3951bbb110c4539</loc>
    <lastmod>2022-01-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/92/7143fbdde2ae05670a10dfd35e3ad3eb9790b4</loc>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1688,6 +1728,16 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/50/d4684e64c417685fa8ba91cf40eb23ccf140cd</loc>
    <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/68/05050b7f066fb5ac5776638ffc403d51541ecf</loc>
+   <lastmod>2022-02-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/57/fa6cf8b33f853dd8740a5099857389679d4d02</loc>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1728,6 +1778,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/32/6d170295e41292c0a7e39b6435ce01b3d7be4e</loc>
    <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/32/1137e29bb22abfb354c0a41afdb7c653a7b5e9</loc>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2008,6 +2063,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/c8/05664cf5cbe18e5609068f1c7469cd920761d0</loc>
    <lastmod>2022-01-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/c8/5790dd2e9b4771403c55b9d72c365e0f2d16e7</loc>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2306,6 +2366,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/objects/00/f3444ebf0227f7a063bc0eabf923c343c8a393</loc>
+   <lastmod>2022-02-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/objects/5c/888602dabcde2d5836d28dbfbe8e4400539f70</loc>
    <lastmod>2022-01-19</lastmod>
    <changefreq>weekly</changefreq>
@@ -2458,6 +2523,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/63/ec5049abdac60eecbf29377470a68fe87e0509</loc>
    <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/64/e1b5d99a0f94d76146e02f8a3ea3d9c2f9c154</loc>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2882,12 +2952,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/logs/HEAD</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/logs/refs/heads/master</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2897,7 +2967,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/logs/refs/remotes/origin/master</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2962,12 +3032,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/COMMIT_EDITMSG</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/refs/heads/master</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2977,12 +3047,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/refs/remotes/origin/master</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.io.git/index</loc>
-   <lastmod>2022-01-28</lastmod>
+   <lastmod>2022-02-01</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
