@@ -27,7 +27,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioRelease</loc>
-   <lastmod>2022-02-18</lastmod>
+   <lastmod>2022-02-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.ioDEB/repositoryquangminh.afontfutura_1.1_iphoneos-arm.deb</loc>
+   <lastmod>2022-02-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -137,7 +142,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioDEB/repositoryquangminh.fintqm_1.0_iphoneos-arm.deb</loc>
-   <lastmod>2022-02-18</lastmod>
+   <lastmod>2022-02-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1592,7 +1597,7 @@
   </url>
   <url>
    <loc>https://ongcenh.github.ioSileoinfo/afontfutura.json</loc>
-   <lastmod>2022-01-19</lastmod>
+   <lastmod>2022-02-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1677,12 +1682,12 @@
   </url>
   <url>
    <loc>https://ongcenh.github.iositemap.xml</loc>
-   <lastmod>2022-02-18</lastmod>
+   <lastmod>2022-02-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://ongcenh.github.ioPackages.bz2</loc>
-   <lastmod>2022-02-18</lastmod>
+   <lastmod>2022-02-21</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1816,6 +1821,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/objects/9b/f83c3e468727c5d9ba7c776b0cbfc548f1f95a</loc>
+   <lastmod>2022-02-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/objects/04/a0f4cd7d6631784381b015d355321b0502fb2f</loc>
    <lastmod>2022-01-21</lastmod>
    <changefreq>weekly</changefreq>
@@ -1858,6 +1868,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/35/cd76741bc2226da40c4aad69a47a405bada9e7</loc>
    <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/69/d42b134667007487e8e1db0a5c557069079909</loc>
+   <lastmod>2022-02-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1933,6 +1948,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/94/e23f4fb1d38b61bc86dfa44cffb68963b68df1</loc>
    <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/60/be1c158e2198174984ba1dc5cc7cd1c935bfe5</loc>
+   <lastmod>2022-02-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -2556,6 +2576,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/objects/9f/dbc5db17d046c19e5eca5aa020c366cb6363df</loc>
+   <lastmod>2022-02-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/objects/6b/ad06bf5d510b375e6ba5402501c45eea91bf0b</loc>
    <lastmod>2022-01-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -2841,6 +2866,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://ongcenh.github.io.git/objects/dd/afc7d4a9ed593a9c58cdaa611a1e41e444b9c2</loc>
+   <lastmod>2022-02-18</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://ongcenh.github.io.git/objects/dc/8f8000d3116d003a3d46551f248812858b9695</loc>
    <lastmod>2022-01-21</lastmod>
    <changefreq>weekly</changefreq>
@@ -2898,6 +2928,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/a8/cc1c388d8c9aa621078e63db20eb8938811b39</loc>
    <lastmod>2022-01-21</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/a8/2ace39ec35a235a4bbb5b6fefe9e99ea107f57</loc>
+   <lastmod>2022-02-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -3063,6 +3098,11 @@
   <url>
    <loc>https://ongcenh.github.io.git/objects/e9/9064f5737776c7fdc032bf6ed2f559b5cbf162</loc>
    <lastmod>2022-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://ongcenh.github.io.git/objects/f1/01fa03558f208d81d5713ea7b8dbb2785048d0</loc>
+   <lastmod>2022-02-18</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
