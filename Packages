@@ -1,0 +1,1111 @@
+Package: repositoryquangminh.afontVerLag
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontVerLag_1.0_iphoneos-arm.deb
+Size: 279910
+MD5sum: 18f68ad5e01ff77e2f2f137b0ed9eca3
+SHA1: 4b28b2ebd3c0df34c4265bb9c46c223672af97dc
+SHA256: 3f760697c8f426d7a8b063ab54df499fe366eca123f575800dfeb94a62d9c270
+SHA512: 1f07329bd43f4c004b0fbdca7a36980c543ea3af7878c9e521b4f7489c4f8ce12b299fb2680670950ac03d4f85f2376b314d73a8aba41f90c2b5d03ca80d4f13
+Homepage: https://repositoryquangminh.github.io/info/afontVerLag/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: VerLag (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontVerLag/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontVerLag/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontVerLag.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontbabietteen
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontbabietteen_1.0_iphoneos-arm.deb
+Size: 284132
+MD5sum: 74016935086226b00574381b62aca074
+SHA1: 912198bd5abef85c41902ac5930370a488ac6a50
+SHA256: 1bfb370f1d132a98d3ee63595c7123475940e6dc1d5709cffb2849052b083784
+SHA512: 488a446e06c128f723f796dfd78e4b695d0f08d387ba8252887ea98f6e494f560d3dbfc449f171182d007ab5771bd55f1f3144b1c769ef02629e49a907a5f90f
+Homepage: https://repositoryquangminh.github.io/info/afontbabietteen/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: BaBietTeen (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontbabietteen/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontbabietteen/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontbabietteen.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontbauhaus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontbauhaus_1.0_iphoneos-arm.deb
+Size: 55286
+MD5sum: 0c53737e77bd26120f43a0c1736b95c6
+SHA1: 580056ed26db38e47d90ecbc73ae86725818a0e5
+SHA256: c4338c2e3d7374c208226f9314a32907181f9c22a00eda784a31fecfb5012907
+SHA512: e90265cc784ed07665fb0c0726876b9a71c55b835102c462d1a685095040a0127dd41e37b66a0e23513313bcdb6bafabdbae4f55ea8d5192c6d0169934724946
+Homepage: https://repositoryquangminh.github.io/info/afontbauhaus/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Bauhaus (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontbauhaus/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontbauhaus/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontbauhaus.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontbig
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontbig_1.0_iphoneos-arm.deb
+Size: 317064
+MD5sum: 4a5f8ae58c31ab9095cf7acb92dbfe6b
+SHA1: b4878dc2f79d44b9327d88db33792f66f0f1f304
+SHA256: 2c09549fb15db9b7dc7fdefbb2c80da1dc501a5cb3fa13aff14754c92d865939
+SHA512: 7a47f5f24366487c7b3ff25aeb89261fa4b3c5b00e58af07fcd10eabdee88d7e52cd74ce8331fab509a48a3f71f95c4427f506bd649e8995b19b30110ecf43a8
+Homepage: https://repositoryquangminh.github.io/info/afontbig/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Big (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontbig/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontbig/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontbig.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontblood
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontblood_1.0_iphoneos-arm.deb
+Size: 298544
+MD5sum: 030d1a9c0d588d082e3adbda316fd0df
+SHA1: 8dfa467f3222c4a2366d2afa1a1a92ccf36be6ae
+SHA256: 1f351db884ced93bba7acf0c91e04a35205054d3791e388c6a5552409d77b0d0
+SHA512: 8a24939fe1d6dadc47c67d4f4f2ca4e6d979cc28f1d283a003e567896d1b354af2c1cfcbecd2b3b655aa673fdf417c94f774000d8afc1aca95c1e64f2977b264
+Homepage: https://repositoryquangminh.github.io/info/afontblood/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Blood (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontblood/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontblood/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontblood.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontbong
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontbong_1.0_iphoneos-arm.deb
+Size: 265428
+MD5sum: 5c3f1ca3457e186d5e664cbcf19ffa29
+SHA1: 166ab33c441fd794c3668b2fc22dcbf6eaf32752
+SHA256: 39e51df0bbc5b3e0df795387ffdb19da413c19067c53e02f1dcce1a0a3fb5761
+SHA512: 59fc3476eac0394b10e8ed63186b227a46f722a6b58aa1629586ed2ad20e984b23a8355bb6984eaadc96212cb625ded4a386fcb22870fc5511645985644cf496
+Homepage: https://repositoryquangminh.github.io/info/afontbong/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Bông (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontbong/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontbong/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontbong.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontbookerly
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontbookerly_1.0_iphoneos-arm.deb
+Size: 524206
+MD5sum: 5a2d4bb724038c0d0ea791aab2cb498d
+SHA1: 85fde42b2bcbe63d4191c51c37db8b54e93a584f
+SHA256: 274d1fea6bd77c7bb1d4fccf0ed815ddc10963f0f74f4b438f3f8d5d260b0630
+SHA512: a77887d6e904a7d5cf062339dc21910d37788e17fb9c60468ba902f698309c633665314eef44b3c29a5a718456a57208ab4fcfbc885fea4b7ef4dc5b197f5495
+Homepage: https://repositoryquangminh.github.io/info/afontbookerly/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Bookerly (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontbookerly/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontbookerly/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontbookerly.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontcaneleter
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontcaneleter_1.0_iphoneos-arm.deb
+Size: 345318
+MD5sum: 7450bccf5dec1feedb93ac345eb31646
+SHA1: 05895ece4924eccf88764f5872efe9dec3f893ac
+SHA256: 650a063bca64a96732206c60ee9afca2c30789fc2cae38ef9ee21f100259aab1
+SHA512: fa39d5c20318db39b16e36bf8a4cdff5b3420eaa9ec9ee6580321c8fa9a74fa1fd4bc96d2037a1d320edb93a5ba7e5ecb71b93d210ba72a90e00a01c1a36de56
+Homepage: https://repositoryquangminh.github.io/info/afontcaneleter/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Caneleter (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontcaneleter/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontcaneleter/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontcaneleter.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontchacoky
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontchacoky_1.0_iphoneos-arm.deb
+Size: 241354
+MD5sum: 68b0890cdacdf0acfb7a1605344aacb7
+SHA1: f0b8b801972abdc8ac7aa8ce0556f7de3d6ecb74
+SHA256: eac18ef6437086469eb1fcd7610fe3a360e3453da04c9afc8cc261aa83734494
+SHA512: 322063fb9e5dd096b006407535851c66d38a0a9e0cd8412ace8c64747e71ff2ab19a088cf898651b25ab7d9d671cccef52e11584df05b5bf58268bbb03afc833
+Homepage: https://repositoryquangminh.github.io/info/afontchacoky/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Chacoky (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontchacoky/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontchacoky/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontchacoky.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontcharm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontcharm_1.0_iphoneos-arm.deb
+Size: 242366
+MD5sum: 2a3132d5a4560f74f2e208287076ab1b
+SHA1: e046c716577909d15268773ea9a80a4eed668c42
+SHA256: d1c2e82d15c4e871b5d9593b2b55ea569851438d1009c7d182263d2f88789eba
+SHA512: ff4717dab56f6aaf0a82ccc27ea00acffe9a13be1419849f60e7bd894788f079fa13816944cf031ba21587485bcfc8049163b5a2ed28c3ee819dbe607c27be1c
+Homepage: https://repositoryquangminh.github.io/info/afontcharm/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Charm (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontcharm/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontcharm/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontcharm.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontcharmonman
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontcharmonman_1.0_iphoneos-arm.deb
+Size: 179220
+MD5sum: afde3ee3082c692156ec963ee616a50c
+SHA1: f310c9b6ba6352dc87078e498df25a0f4cb21abc
+SHA256: ddd5d98ef3891836d0fc7f8afc6bbf0efbf5b0355da53929bb8ea9033f596b46
+SHA512: 4fcf367ec22ddb1d84e9d7616024975282ade3fad33bfefb8b1850a3cbf3718fa93cb92855ee8c5c1f6dd2ebaf312e4a0a51d7e0de61f0bf25054e7292193539
+Homepage: https://repositoryquangminh.github.io/info/afontcharmonman/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Charmonman (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontcharmonman/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontcharmonman/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontcharmonman.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontchineca
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontchineca_1.0_iphoneos-arm.deb
+Size: 429252
+MD5sum: f593ce77e2542be4026c8ed492e89931
+SHA1: f376bc9dee34bd7b24283a1c3ac8c5c834dbbdf1
+SHA256: 014911a72b74b91aebbfea950d322c8da07985f81f911d1aea963f7cf28effde
+SHA512: 4f14d72dca7d203db3205e4b6ccf45483394dfa56ea6e2bc0aa763f99f9369f1079958294408f9a0642497f8511d6c7a2b502d37099c1d0fbb7694f58df202de
+Homepage: https://repositoryquangminh.github.io/info/afontchineca/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Chineca (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontchineca/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontchineca/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontchineca.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontdreamcats
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontdreamcats_1.0_iphoneos-arm.deb
+Size: 194950
+MD5sum: 1bf4dd69b45aedb79b092d40c9dd1fec
+SHA1: b449a02f5a315b41ae036abdc44b6c1cb3c4d232
+SHA256: 4b809cd05612984f41e9206df091e97a598c3d5b7340d3f134ff3be2bd43218d
+SHA512: a40333fb3bb4f808c66a1ed11a08a7466403fdf33cd745c9b469241aede4df75e7f277f758fb78b84b2c391e379ea52dafdcad4e8dfd8dc4eb53e2503be8b1a9
+Homepage: https://repositoryquangminh.github.io/info/afontdreamcats/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: DreamCats (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontdreamcats/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontdreamcats/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontdreamcats.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontedgy
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontedgy_1.0_iphoneos-arm.deb
+Size: 199220
+MD5sum: 9b615749935c88596d5f484893eb60f1
+SHA1: f61a4560e25eb86c593a619dabf8f0018036bddb
+SHA256: 0e69a1159e209da0842d53e058996e37d449d49fc006e2e13320b61242cf8742
+SHA512: a3ac164a94ae16b9bfbf329004572662e37c1f4eb49fa3eb3cc51f982ebfdac248df0bfb53b54c83596f4666d56ead360fdb31ec83a9896ded02255c22bb6612
+Homepage: https://repositoryquangminh.github.io/info/afontedgy/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Edgy (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontedgy/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontedgy/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontedgy.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontexo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontexo_1.0_iphoneos-arm.deb
+Size: 268544
+MD5sum: 688f7ccf80826c863962359985fbe9f4
+SHA1: 9c9be323916eee0a63ce144dae15931ebbdef80f
+SHA256: 77ad73e43205a7dd263c736da349d42dfe48a824734886599404a079340a46cf
+SHA512: ce8fdacd6519d08e9fd35a28d74e0ffb282dab9e1d13a471b170104c6d5d82dbec4594f9f0cfd7a7ff6c9c96f2e908b6042cadf0bb2c8568716effed15c5d5e8
+Homepage: https://repositoryquangminh.github.io/info/afontexo/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Exo (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontexo/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontexo/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontexo.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontfutura
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontfutura_1.0_iphoneos-arm.deb
+Size: 204538
+MD5sum: 7f7de74dc9190c883287158820f296cc
+SHA1: 7cb483e5dad62f415752d6da15b24dd8d62d9b28
+SHA256: 0ecc9f4818f9658b71ae2ffbfded971bc11463c3a2c02c7cb46d7cfcebb7a988
+SHA512: 16627d0f43c9f1d3bcb0141c3927192a3762b1849cf796930759d79db8df283552e762d6ea1fdefc614aa01ca444a11a9e25b9f1aaadd403711910d0d6d3c83e
+Homepage: https://repositoryquangminh.github.io/info/afontfutura/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Futura (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontfutura/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontfutura/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontfutura.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontfutura
+Architecture: iphoneos-arm
+Version: 1.1
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontfutura_1.1_iphoneos-arm.deb
+Size: 68188
+MD5sum: c5434e351cb10aaba00a9956f29e6e77
+SHA1: 78b5b4efd237eb81ab820619aec3f0197818c294
+SHA256: 9d55c9ec572aed613b56c06b967eaf16f5bfcb4cc0c6da1df6ed4c532efefcd6
+SHA512: 152e7c067638372a346ff03839af170043d8e98d0e97e457d20e8e0bee6d7720788140ccc1c5f384f9d7c87b2d4c723680c88c2bd1130a6bcf819d00a51edeaa
+Homepage: https://repositoryquangminh.github.io/info/afontfutura/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Futura (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontfutura/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontfutura/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontfutura.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontgineso
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontgineso_1.0_iphoneos-arm.deb
+Size: 313504
+MD5sum: edce8b65c972a6c9e7e481cf2b237768
+SHA1: ce499a745cd46a987d6cb4c5e2a5d97d3a7a7620
+SHA256: 907ed91cfc981ec1123d4a3c52edc5420f582f942846a17e948a029fc3042226
+SHA512: f213fb51ae84c41e0ed5ce8a059205adb1a12d825435d54d8306ab526c7d13c45ffd25a8a841546cbd6aaf9e9575ab00adcb661d25e96299dfa457e34caaef4d
+Homepage: https://repositoryquangminh.github.io/info/afontgineso/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Gineso (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontgineso/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontgineso/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontgineso.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontgooglesans
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontgooglesans_1.0_iphoneos-arm.deb
+Size: 1908526
+MD5sum: f6bf1d8a88b76709f92f356dafdb852e
+SHA1: 9d50d7621f4b048c39493696cc974023e8d7fdea
+SHA256: 8ff382fa992b21593f7046dc17740a101cb6506a92985189b125bd0326aada12
+SHA512: e90a76b6095e20eb9962215a78f2eeb67cc584369d5d7b595ca62778245919ee0a77579540011fee22312a4f81f1cb5046c188193ab6d50ebbfee8e7757da2c0
+Homepage: https://repositoryquangminh.github.io/info/afontgooglesans/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Google Sans (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontgooglesans/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontgooglesans/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontgooglesans.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontheart
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontheart_1.0_iphoneos-arm.deb
+Size: 241914
+MD5sum: 3021aae04ff15a74b36061a85ef39509
+SHA1: cc9dda9399592e7e9c06dbd85271393aae953538
+SHA256: 65ebf3f32c5f92d96852e707d439fc79938fcb89711ca3e5fd9451b0a20f69b4
+SHA512: 1f97479ad3bf55727876e3c6cfb2d1612b22f90255213a3f7565dd767beb848859bf648d63bba9f2252baa8469e2ecabbae9a23bd3072d18e8e0c00d2c1b5a74
+Homepage: https://repositoryquangminh.github.io/info/afontheart/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Heart (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontheart/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontheart/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontheart.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonthellokitty
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonthellokitty_1.0_iphoneos-arm.deb
+Size: 192136
+MD5sum: 6c1e2a0006a5d56a8070b93b9b5d4514
+SHA1: e19a367e94521a42908261bf49419f7b5968919b
+SHA256: 08516e38b93404a4daa4cf09a74b7c05aba836226bd16e0457dd38d7a6a436bd
+SHA512: f487a6f2f9c7d4ff74fc33e2716132e65b80b411c55d7ac120d9d3339b612f7917c3feb4a847cbddc9db66ef1958764ab46824f902c50f63c70385e148171e2c
+Homepage: https://repositoryquangminh.github.io/info/afonthellokitty/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Hello Kitty (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonthellokitty/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonthellokitty/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonthellokitty.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontjasmina
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontjasmina_1.0_iphoneos-arm.deb
+Size: 345668
+MD5sum: 466de7f901d36c7714a65c3a06d840bd
+SHA1: fc0078d5555f0b8f5134dde3bc85ebe6126d7454
+SHA256: 95d882b8e3fc09b723b694c54e7bbc3982e25e162637a8650257cd2ab9124ef1
+SHA512: 73993e63d973eb7b1ba6715897d91dfd603940c5f55ff8ca1e5945fb0bcd6ec006900eff306e5bcd0bd1471010720a9bc93fc4ed9c0946a6464d9e46276ce3f8
+Homepage: https://repositoryquangminh.github.io/info/afontjasmina/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Jasmina (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontjasmina/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontjasmina/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontjasmina.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontkingthing
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontkingthing_1.0_iphoneos-arm.deb
+Size: 285242
+MD5sum: f41a0896d081ed51c0a18cfa280aea31
+SHA1: 2c1bcf6b7e7cde62a1a5a7dc44bb3c7142b9d3c1
+SHA256: 07a4c08acf854d923e9e9fabb6cc33055e4f8ef88c9b9b21d7209d604da8d1b8
+SHA512: 5af73bad182f3df66d23b70b33b2eb0bbf2b44fd41a66d75e29de5d1de3fb024460d0f21ddd0c6852b87185f945caaab5e61e5ab4a461d38bcc5e4b8fe2f4bc0
+Homepage: https://repositoryquangminh.github.io/info/afontkingthing/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: KingThing (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontkingthing/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontkingthing/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontkingthing.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontlobster
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontlobster_1.0_iphoneos-arm.deb
+Size: 183560
+MD5sum: 8e251dfe7fc4bca223e5a74f8cfd07a1
+SHA1: 13e32729507a94033301fc3d4c06fbc9011e3282
+SHA256: 8dc5b067b94be348f4817d0bf0a711ba7e9beef82acf6f5da3407ddb400c9ef5
+SHA512: a6276e3dae46d81bc5c2261295dd2eeecc0bbf56f3ee0560b52cb229454ca38f4d36c71f55e3e313abc65c09367512b2c23894870a519a03dfb82b4a8feceb6a
+Homepage: https://repositoryquangminh.github.io/info/afontlobster/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Lobster (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontlobster/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontlobster/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontlobster.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontlove
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontlove_1.0_iphoneos-arm.deb
+Size: 2055742
+MD5sum: b07a54b4e07b52baa38239ddf17799ed
+SHA1: ec7d3310dca08e80a7d1b33176c6dc6d83c2d460
+SHA256: 473f29373a47b5081aca12450eca9b2b8ad61edd07cd92116ca2bd8ec9fa3bc4
+SHA512: 2ddd4820edc0469fb5131cc9c6daa8bd182ef46a1e2c5aede66ad73ebb1cb2fcd910eb7eb7e9303285308537c5c4cfaeda592b04b5ed64087fb66de8f371be6f
+Homepage: https://repositoryquangminh.github.io/info/afontlove/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Love (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontlove/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontlove/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontlove.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontmodulus
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontmodulus_1.0_iphoneos-arm.deb
+Size: 1978960
+MD5sum: fe5ad0d293f6b570f79a8793adc296b6
+SHA1: f0ac1ef4748f23c052c141f3e3f0a7f96aa1a65a
+SHA256: 8ea21cd52c7bd3c5bf9938430fc21f700300f10343b92f99e8a150f675aae022
+SHA512: 127499965eebc7b24b9eaba98f5c23174fe3c1ff33c79c74a59be00a4db1b1b015de77ce70f8d664cae67a90463d3e33ef6a258c187e524f76659f1cb32c583a
+Homepage: https://repositoryquangminh.github.io/info/afontmodulus/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Modulus (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontmodulus/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontmodulus/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontmodulus.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontnote
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontnote_1.0_iphoneos-arm.deb
+Size: 182322
+MD5sum: 47b701df87a926f611e1e0ea3e3208bb
+SHA1: 4fa5286a81e9dba8baa492acf18011c5297c5732
+SHA256: c70fd63e7a73a94e7d4fee861ba8e8a35050056f386f8c87632a1ec00f95932f
+SHA512: 10acb922717560f23eb28cd79f4ad1add0d32a94ed862b71d9cffcebdf01cc29182a59e11eb14df4fbcc6187dc74bd28313da2024a0b5b709ac781d490f4cc43
+Homepage: https://repositoryquangminh.github.io/info/afontnote/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Note (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontnote/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontnote/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontnote.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontonly
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontonly_1.0_iphoneos-arm.deb
+Size: 222218
+MD5sum: 5be26a0d200e72495c59c85aef9f03a9
+SHA1: b4a1218f50e0e94937b1881d49822a0d679545cd
+SHA256: b897e3b6f7871dc6401a7949bce193694648788319c0a2bc0b60e012714e6fac
+SHA512: fcee30bb6f3851c984fb23c4e267809e15abe61d84d30b7622eae941152a901346c630016ffb80b851b7cf189b5ff089b48ebc146a85bc95bf9352ee64bf8039
+Homepage: https://repositoryquangminh.github.io/info/afontonly/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Only (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontonly/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontonly/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontonly.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontriver
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontriver_1.0_iphoneos-arm.deb
+Size: 240244
+MD5sum: 6474312ccb777d2fc46c665c99c79e02
+SHA1: 7a65b25ce4137c8ceaac89e2c99c5fc215a26d67
+SHA256: 1f344cd367ec9e03139e3bae226e337d78e2bd79882ba425c52bd9819c8d2349
+SHA512: 354ea0277eac18c73c2d35ebe55776176bdf6d0bf958d64a8e6b34eeda2f786819bc70e9d89d36f71cb86ac3bcc9abeeb4fd5d61fd5cfd16179d20a06d655996
+Homepage: https://repositoryquangminh.github.io/info/afontriver/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: River (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontriver/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontriver/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontriver.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontrixlovefool
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontrixlovefool_1.0_iphoneos-arm.deb
+Size: 496282
+MD5sum: 4e65219a3c3be7e8ad71b94ee4ff52c7
+SHA1: 91d01a0fe12929ab91b3e6b3994f2864e89f42e1
+SHA256: 008a2bb655261126217bbac1cd4f0e8fb5df3b16858ab16f974bf99c8692d459
+SHA512: c88e83f0d6d4c9a898f377f8c1da8e27e46a69137a829725181f08b47c3391580429c4257175a7ab2a010547f9d92b725d94485e1e9287232d430d20ada4676f
+Homepage: https://repositoryquangminh.github.io/info/afontrixlovefool/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: RixLoveFool (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontrixlovefool/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontrixlovefool/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontrixlovefool.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontrosemary
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontrosemary_1.0_iphoneos-arm.deb
+Size: 3098270
+MD5sum: ecac8713f29e108e276d727a541f5036
+SHA1: 4433f9f8e4a900088d285aaae2be06b7bbdf23b0
+SHA256: c01e45baff0eef09a9daea14af2088e6caf6d0ae42d26f3517c42880d8a92868
+SHA512: 03284000bfd03d7937945b1f7175837f53cfa78c1eee1b909179da1622969217094c7abe7759f95b4882a38919fa9492b5f909faa5345694867cde44696602aa
+Homepage: https://repositoryquangminh.github.io/info/afontrosemary/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Rosemary (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontrosemary/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontrosemary/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontrosemary.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontsfcompactrounded
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontsfcompactrounded_1.0_iphoneos-arm.deb
+Size: 1490208
+MD5sum: da96a5f09c3fae03a963edd04fb72594
+SHA1: 2a042bffd18a4d9fe2e59ae384794aca8619bbcb
+SHA256: 8b626d5268cc9d29828f97f09e5330eb194fc003e90cab1aa866a711c75226e2
+SHA512: fc03942f36e5f2ba0174f4ba11ea4e5c3d9974a6f38032f72ae7876e7e8b75636bc0ab2f54ec0a4c169528fa38461a7b1c0c005c4b6a11a6099459e45611caa6
+Homepage: https://repositoryquangminh.github.io/info/afontsfcompactrounded/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: SF Compact Rounded (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontsfcompactrounded/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontsfcompactrounded/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontsfcompactrounded.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontspoon
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontspoon_1.0_iphoneos-arm.deb
+Size: 2011926
+MD5sum: 0ed85178215e2d11746e7a7a0495383f
+SHA1: a254d09fa3c598d41d549ccb4980fafecf43d3e6
+SHA256: 86d431dd5320184b02c95fb76e77e96241355fac772f06b4bc408be86ba6d9c5
+SHA512: d9cc09c5a1a45df73688daf9322f708c05f00875e6d6d41506d2ace4c6bd728031f43ff081bbc9b7aec11ac1765875eca16c00bb79e1eb1ad863d54b5a9129df
+Homepage: https://repositoryquangminh.github.io/info/afontspoon/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Spoon (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontspoon/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontspoon/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontspoon.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontstrong
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontstrong_1.0_iphoneos-arm.deb
+Size: 207724
+MD5sum: 802e8d153493d1c3376aa669bd62b855
+SHA1: 26a9565760d71a0171c13f42cd335ecbb8e0b338
+SHA256: f88e0100c0939107b4a0f59080df6e27f8c2baa9f89af74dd1dd8917ed68a50f
+SHA512: f572871ec78e589ba58a8a7490e1b71568626bec464bd6a67b7ea10180230d78f9c5c784075877ccaefbb8acc24b537626a5bfcf220283f5c7b3607de739e349
+Homepage: https://repositoryquangminh.github.io/info/afontstrong/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Strong (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontstrong/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontstrong/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontstrong.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttexgyre
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttexgyre_1.0_iphoneos-arm.deb
+Size: 355828
+MD5sum: f238d4f6d362232aea4d993424c5ce93
+SHA1: d195969f693de1350dfd0c0722265c577fda85cd
+SHA256: 1c6ec9a1219a44017d9c1bc2e13c61867a5ae3de820987290c18451868c00133
+SHA512: 44b2690d7e08cb10b1cca52b58741d9e273605dd23b431fa497f4605cfe3c12b9b2b381247b5524378b7e3145be7c557c4a5674a7f63ca4f2bac3050695ad787
+Homepage: https://repositoryquangminh.github.io/info/afonttexgyre/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TexGyre (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttexgyre/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttexgyre/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttexgyre.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontthankyou
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontthankyou_1.0_iphoneos-arm.deb
+Size: 180022
+MD5sum: cb4c90e3c8d05f6feff6f721a4ee1918
+SHA1: e5c1f04c631045c6ac19bafb4e35fb2e1b57caed
+SHA256: f3c8b08f78766b57af28f7b711bd40a83b9976afb1093c3bffdec15e42e07884
+SHA512: 29aa666a60ac5c216d5f0d6ba2fb8c0500c0d3d4d78abf0fef34ea17257441e81f64f82dc089a216c92ea41243209d31efd3fb269bfd588ac677114361eb846b
+Homepage: https://repositoryquangminh.github.io/info/afontthankyou/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: ThankYou (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontthankyou/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontthankyou/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontthankyou.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttqmdalat
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttqmdalat_1.0_iphoneos-arm.deb
+Size: 92528
+MD5sum: 6500b7b21b8ee87db201d6fc443a21c8
+SHA1: 2c844fd1ce9ca5a79fedf5572b32072d527c9900
+SHA256: cf46dc67e2221d3c0648a92b970c70afb54e0cc021010dd2ae34915f6a343cc8
+SHA512: 266c9d00406a1ff05b82afba3d6cbc974dcb03ef12155aecc5ee72bbd6a37cd0ed7a979f811694cd968c8fdf3bfea4486b47079ed0e55f9cf13b380a63e9cf23
+Homepage: https://repositoryquangminh.github.io/info/afonttqmdalat/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TQM Da Lat (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttqmdalat/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttqmdalat/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttqmdalat.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttqmlaclongquan
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttqmlaclongquan_1.0_iphoneos-arm.deb
+Size: 62546
+MD5sum: 579c9f682b119a268eace06bae6684f4
+SHA1: ec3ce8600863a7bf23d885e3edff3e6a1321772f
+SHA256: 92371f34c45f211f97a3fc2a68a6d94f66f78d99f60b2cf60418210492b42919
+SHA512: e5a112de8fd3f5a37dd4f84fbd49f1b20010bcb77686687a7640106f1ba31b33afe7f99b1c587745d5399f2bbd2033277204ac47858b95b1bed505cb1d1a4036
+Homepage: https://repositoryquangminh.github.io/info/afonttqmlaclongquan/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TQM Lac Long Quan (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttqmlaclongquan/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttqmlaclongquan/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttqmlaclongquan.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttqmlaxanh
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttqmlaxanh_1.0_iphoneos-arm.deb
+Size: 63918
+MD5sum: 946cfe932075ec599b76d612f7eabfb1
+SHA1: 18f3fe7f698e5ffebcada45963ef829bb0c4453b
+SHA256: 8cb6a4d30fba4c7e3c99e1d688fe990565fd0b44517073b849abe1ff74304e7a
+SHA512: a3b13e665720928233ecba4487d9f704f48b586207f64f82dbf326e9ff014bc2a94a7b83342aed9d366260350ff2ce8ee8dc6df03ef387fed28c6aae5377d2e6
+Homepage: https://repositoryquangminh.github.io/info/afonttqmlaxanh/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TQM La Xanh (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttqmlaxanh/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttqmlaxanh/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttqmlaxanh.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttqmthanhpho
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttqmthanhpho_1.0_iphoneos-arm.deb
+Size: 60408
+MD5sum: b19ef169555ec65a92c23934876d1c4e
+SHA1: 002c6bc81dcaf4f6a1eab8aaad2af48a0c8e3584
+SHA256: c43d8bc002ad3cdf9b371a15202343f79197c9f61c6a042b41aea108e76a7ac0
+SHA512: 93d018229164c4b2c425260556509aba180eaf92cf7f6db5a43c8b0ba21c7cce1ac4ac4c3c683075999015944602f5bc86c853517a8b170a9baa481bcb2bcd87
+Homepage: https://repositoryquangminh.github.io/info/afonttqmthanhpho/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TQM Thanh Pho (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttqmthanhpho/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttqmthanhpho/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttqmthanhpho.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttqmvan
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttqmvan_1.0_iphoneos-arm.deb
+Size: 66264
+MD5sum: 1dd9deb96867d6c7ee3cadff38efe417
+SHA1: fe24ee2514a7f55e438584d2ae27bb13032c6ad6
+SHA256: 4e3e8f1345ca9874621be6bc48186f837023a561b7d13cbd369418ae2cc998c7
+SHA512: 2221bb8d9976da8d3259c2fd826e18933f9877a283d2c5200463a98e918570173893f4e919623a3531e728b45a40217c963f32a7cc9805b2a2b212e05d4533bf
+Homepage: https://repositoryquangminh.github.io/info/afonttqmvan/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TQM Van (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttqmvan/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttqmvan/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttqmvan.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttqmvanchuong
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttqmvanchuong_1.0_iphoneos-arm.deb
+Size: 62530
+MD5sum: d29f02285ca8fe2f56c92b1af003f97c
+SHA1: 5a56b06d72e83e1ab6f2d26a3d1547f95777bf9c
+SHA256: d01af3b86dacba4625d4beef438f458aed02d9cc47b02b96edfc75cc4c6b122c
+SHA512: b8dc61c90a8ce8c21053749237cf11015c15611f7aecc63ba456ae733ae1d9decda4c73d91061792eff2f6452dae30472d4c692e664622ebdc0aac892ce64a04
+Homepage: https://repositoryquangminh.github.io/info/afonttqmvanchuong/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: TQM Van Chuong (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttqmvanchuong/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttqmvanchuong/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttqmvanchuong.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttwilling
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttwilling_1.0_iphoneos-arm.deb
+Size: 193416
+MD5sum: db1b628e0353ad52d240e76f078e0013
+SHA1: 21cad701117996072ba027f1194d9beacb218b98
+SHA256: f92da4e67d5c34330e887f38771ffac095591d1085849b1f4bf8ab91af39b888
+SHA512: f18f71b346f451731498e00ff4a819df397d90454f986e8b71fe61a4a2ade8e8a07f0279166447803cecc973b751a374b1d1ad7ffc81d0fb99112a62564d58d1
+Homepage: https://repositoryquangminh.github.io/info/afonttwilling/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Twillign (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttwilling/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttwilling/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttwilling.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonttypo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonttypo_1.0_iphoneos-arm.deb
+Size: 231318
+MD5sum: b3c4d1c4a5929eba2472b8d4ba74a27f
+SHA1: b10a6c1e412d7f4ea1a63e3f9af6542fef57b69d
+SHA256: 5bf9ac2ee451597905592cf9bfa4637e72be9eaf65c4113eec931b6690a5769d
+SHA512: 446053891c60026899a0b19561ea0c146465bc4de5042d836978d1fb21cbfe81559ec8c93c2d615818b4d3cd8d49d5437199dff8ab760823849d731031a3d960
+Homepage: https://repositoryquangminh.github.io/info/afonttypo/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Typo (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonttypo/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonttypo/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonttypo.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontuilove
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontuilove_1.0_iphoneos-arm.deb
+Size: 260844
+MD5sum: 4d9bc1b1ece1bc387f82eef84b629506
+SHA1: 69e1932ff7e3735e228a8931d7399297d79696cb
+SHA256: ff7a5ff03db7b11c6b3267068339869b6fe8d1ce962397e543a882171e9b39eb
+SHA512: 3bc97707429878ebf9bcc725eabfa8e0e9c6d5c83754536c5de21012f1075ad17f42622b0a40befc839ef60843a8cebd3ad256b677db7211defa2dfa967abf56
+Homepage: https://repositoryquangminh.github.io/info/afontuilove/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: U&iLove (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontuilove/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontuilove/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontuilove.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afonturwgeometric
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afonturwgeometric_1.0_iphoneos-arm.deb
+Size: 514636
+MD5sum: 7d74e27510a92457b9ed5eb68d3b8fbe
+SHA1: 70c146988ff92b1a1691cd98c8aa63f91b48ea87
+SHA256: 00cb0d39ff20bce784cfbcde3a7ff4495d77c9bad88c2a2b8825da04fdbc5523
+SHA512: 12166dad168720139c0a229bec9459b021e038b1fda256d7b56ac16bc90261c025efff95a0195c1faddb57c89a3a84d944892db4b5592f3e33f93023fac651e3
+Homepage: https://repositoryquangminh.github.io/info/afonturwgeometric/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: URW Geometric (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afonturwgeometric/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afonturwgeometric/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afonturwgeometric.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.afontwinter
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Fonts
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.afontwinter_1.0_iphoneos-arm.deb
+Size: 247394
+MD5sum: 1f697004c25322ae30fbd2446da8e5a4
+SHA1: 972604b612fba0dc6e9e8830591b80bc4b72a206
+SHA256: 396389942e6eb53631219faf263861272f49d01bc240eb7e7ad20f184b5987e7
+SHA512: a5ca8b05021d82e0e45c773ec43847a2b8a97ace1df186794c0a7ddbfe5fae70f3d458e089bdd9ff99c2ae0a5c630e9dbca5d49b544393ad652be644e6a0f329
+Homepage: https://repositoryquangminh.github.io/info/afontwinter/?p=info
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Name: Winter (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontwinter/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontwinter/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontwinter.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
+Package: repositoryquangminh.bytqm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Themes
+Maintainer: Quang Minh
+Filename: ./DEB/repositoryquangminh.bytqm_1.0_iphoneos-arm.deb
+Size: 24113504
+MD5sum: b0ab02759b9c8ac32b75c557a2f67dbc
+SHA1: 159f64d4555d95aa955e1d744dd1a394f5e5910e
+SHA256: faeea822d780c2753bc76ab577ee08d51e852f55773da3ed2a407506cfc16341
+SHA512: 524861ab273667193c988711a1b75ed7072e020350210cc65eeb561a7ddc5c23d8abfcaedca572fb913f6773459ed609d914bea0a8460539987c194bd0600121
+Homepage: https://repositoryquangminh.github.io/info/bytqm/?p=info
+Description: Chủ đề BY - TQM
+Name: BY - TQM
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/bytqm/?p=info
+Depiction: https://repositoryquangminh.github.io/info/bytqm/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/bytqm.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Themes.png
+
+Package: repositoryquangminh.finlax
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Themes
+Maintainer: Quang Minh
+Filename: ./DEB/repositoryquangminh.finlax_1.0_iphoneos-arm.deb
+Size: 2047334
+MD5sum: 523006e532a6d5cad32fd3fc34a066e1
+SHA1: 111679c8bc7ef4b232a409d9994820821c2aacd9
+SHA256: a1d49d144de90fdd62465566d26ad68bb2d8d388b89959ac16ff2aba0cd33378
+SHA512: 01d147c82533cf7bb4bca915deb478fc9677e12fb959feeb361bedba76026718214025aa04217b46459c64c7c07de8d266abfef7d31bcbe5a90bdac81b8abd5e
+Homepage: https://repositoryquangminh.github.io/info/finlax/?p=info
+Description: Chủ đề FinLax
+Name: FinLax
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/finlax/?p=info
+Depiction: https://repositoryquangminh.github.io/info/finlax/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/finlax.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Themes.png
+
+Package: repositoryquangminh.fintqm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Widgets
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.fintqm_1.0_iphoneos-arm.deb
+Size: 2635964
+MD5sum: a7c9ca2a8383acf40788a06f54ed9fa8
+SHA1: 78b3fe9469ad95e19d1fd4cdb127178950732b36
+SHA256: 3db3c04cb8b563c31d9498e1113c02fa9b3846deb7d0b3e81b4471e6904aebef
+SHA512: 594918865a0ebd44cf34dca384cec24f0532840d17722ad30c7d9e1df95041af61a7204f87e3abe9ac3e4f8bd33ef8d7616fe9e099d88b1950e258679e6b50e8
+Homepage: https://repositoryquangminh.github.io/info/fintqm/?p=info
+Description: Gói Widgets mod my Trần Quang Minh
+Name: Fin TQM
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/fintqm/?p=info
+Depiction: https://repositoryquangminh.github.io/info/fintqm/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/fintqm.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Widgets.png
+
+Package: repositoryquangminh.fintqmv2
+Architecture: iphoneos-arm
+Version: 1.0
+Section: TQM Widgets
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.fintqmv2_1.0_iphoneos-arm.deb
+Size: 3802776
+MD5sum: e4f112f16dae131a1c30fc531e8c6feb
+SHA1: 016e9103a56175b42e4e8c48ce0e6fd1d383a2b3
+SHA256: 488eaf51b8c123b87bdb7fc46a4301383e1066b303ef11e530d408565896377e
+SHA512: c063b8f4f79afdc025938ce9dd44289403e250c6d3d235e97d3946af33f39599e2cdd7f11b251b92555f257e12f00fa856109e9c7a0abe19ac9bd275ad9f57f2
+Homepage: https://repositoryquangminh.github.io/info/fintqmv2/?p=info
+Description: Gói Widgets mod my Trần Quang Minh
+Name: Fin TQM v2
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/fintqmv2/?p=info
+Depiction: https://repositoryquangminh.github.io/info/fintqmv2/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/fintqmv2.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Widgets.png
+
+Package: repositoryquangminh.fintqmv2
+Architecture: iphoneos-arm
+Version: 1.1
+Section: TQM Widgets
+Maintainer: Quang Minh
+Depends: repositoryquangminh.iconrepo
+Filename: ./DEB/repositoryquangminh.fintqmv2_1.1_iphoneos-arm.deb
+Size: 4063332
+MD5sum: 44d5ec31135535c60806f2d9a84ed7b8
+SHA1: 1f8e0eeef58515e1d7cde79f853e1e23bbde564e
+SHA256: 00b2a0efb146770fc506023756ba09bbccdeac230fc3703fa85a2a9f975b2396
+SHA512: 75656752e115c06b592655745c65d35c491e5e21d70489d463d4c4d04dc87335fe8a45c95fca9798f7c8e4d4a56003898479c9bc2378af0c7c798d4fa788fccf
+Homepage: https://repositoryquangminh.github.io/info/fintqmv2/?p=info
+Description: Gói Widgets mod my Trần Quang Minh
+Name: Fin TQM v2
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/fintqmv2/?p=info
+Depiction: https://repositoryquangminh.github.io/info/fintqmv2/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/fintqmv2.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Widgets.png
+
+Package: repositoryquangminh.iconrepo
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: yes
+Section: System
+Maintainer: Quang Minh
+Filename: ./DEB/repositoryquangminh.iconrepo_1.0_iphoneos-arm.deb
+Size: 91308
+MD5sum: 72171ece25c330766096d811d9a182e5
+SHA1: b9e1809b9935ce8fd42d5265c38277f9cabd7380
+SHA256: a0c2bd5f3e894b3ef094ebd4ddfb043f149d98aefc96516b48b520943c08ca72
+SHA512: d8bd7c7249f11f9c99a4e1b2baea03226a963b55cd5311626a1bbb1e81b0cfc8248a754df19b1909c31055b685df6ac80070b102bbb2a8dd5734c3722be8510b
+Homepage: https://repositoryquangminh.github.io/info/iconrepo/?p=info
+Description: Biểu tượng Cydia cho kho lưu trữ Trần Quang Minh 😎
+Name: Icon Repo
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/iconrepo/?p=info
+Depiction: https://repositoryquangminh.github.io/info/iconrepo/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/iconrepo.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+
