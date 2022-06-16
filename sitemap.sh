@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # url configuration
-URL="https://ongcenh.github.io"
+URL="https://ongcenh.github.io/"
 
 # values: always hourly daily weekly monthly yearly never
 FREQ="weekly"
