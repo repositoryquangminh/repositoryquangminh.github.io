@@ -139,13 +139,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0",
+          "title": "1.2",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]

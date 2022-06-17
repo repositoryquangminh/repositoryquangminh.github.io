@@ -1,0 +1,14 @@
+Package: repositoryquangminh.afontlobster
+Version: 1.1
+Maintainer: Quang Minh
+Description: Gói phông chữ A-Font mod my Trần Quang Minh
+Section: TQM Fonts
+Architecture: iphoneos-arm
+Name: Lobster (A-Font)
+Author: Quang Minh
+Website: https://repositoryquangminh.github.io/info/afontlobster/?p=info
+Homepage: https://repositoryquangminh.github.io/info/afontlobster/?p=info
+Depiction: https://repositoryquangminh.github.io/info/afontlobster/?p=info
+SileoDepiction: https://repositoryquangminh.github.io/Sileoinfo/afontlobster.json
+Icon: file:///Applications/Cydia.app/Sections/TQM_Fonts.png
+Depends : repositoryquangminh.iconrepo
